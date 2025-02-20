@@ -8,7 +8,7 @@ public class Semana2_3 {
         System.out.println("Digite o raio da circunferencia: ");
         double raio = scanner.nextDouble();
 
-        double area = 3.14 * (raio +raio);
+        double area = 3.14159 * (raio +raio);
 
         System.out.println("A área da circunferência é: " + area);
 
